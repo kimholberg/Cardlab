@@ -157,7 +157,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
+  max-height: 55px;
   margin-right: 8px;
 }
 
@@ -1194,9 +1194,7 @@ section,
 --------------------------------------------------------------*/
 .three-boxes {}
 
-.services {
-  background-color: #F9EFE4;
-  }
+
 
 .services .service-item {
   background-color: #84B6FF;
@@ -1244,7 +1242,12 @@ section,
 /*--------------------------------------------------------------
 # Call To Action Section
 --------------------------------------------------------------*/
-.call-to-action-box {background-color: #84B6FF;
+.call-to-action-box {
+  width: 600px;
+  height: auto;
+  background-color: lightblue;
+  border-radius: 0 40px 0 0; /* Top-right corner rounded */
+background-color: #3659FC;
 }
 
 .call-to-action {
