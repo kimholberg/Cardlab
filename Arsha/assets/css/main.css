@@ -201,6 +201,7 @@ h6 {
   .header .navmenu {
     order: 3;
   }
+
 }
 
 /* Index Page Header
@@ -660,6 +661,10 @@ h6 {
   font-size: 13px;
 }
 
+.footer .footer-about {
+	margin-top: -10px;
+	}
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -813,7 +818,7 @@ section,
   position: relative;
 }
 
-.section-title h2:before {
+/*.section-title h2:before {
   content: "";
   position: absolute;
   display: block;
@@ -837,7 +842,7 @@ section,
   right: 0;
   bottom: 0;
   margin: auto;
-}
+} */
 
 .section-title p {
   margin-bottom: 0;
@@ -1197,11 +1202,12 @@ section,
 
 
 .services .service-item {
-  background-color: #84B6FF;
+  background-color: #3659FC;
   box-shadow: 0px 5px 90px 0px rgba(0, 0, 0, 0.1);
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   height: 100%;
+  border-radius: 0 40px 0 0; /* Top-right corner rounded */
 }
 
 .services .service-item .icon {
@@ -1239,6 +1245,23 @@ section,
   color: var(--accent-color);
 }
 
+@media (min-width:1024px) {
+	.services .col-xl-3 {
+		flex: 0 0 auto;
+		width: 33%;
+}
+}
+
+@media (max-width:1023px) {
+	.services .col-xl-3 {
+		flex: 0 0 auto;
+		width: 100%;
+}
+	.services .col-xl-6 {
+		flex: 0 0 auto;
+		width: 100%;
+}
+}
 /*--------------------------------------------------------------
 # Call To Action Section
 --------------------------------------------------------------*/
