@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>E4543785-DB8E-4C72-93E0-F718E013E30D</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>E4543785-DB8E-4C72-93E0-F718E013E30D</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va+wCAAAAAAQQMAAAAE7BbCyC4s+iu7accMGGcG81
+				vbetq/aTpE1sftVz5age6AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAASAAAAAQEAAGtpbWhvbGJlcmdh
+				bmRlcnNlbgAACQAAAAEBAABEb2N1bWVudHMAAAAGAAAA
+				AQEAAEdpdEh1YgAABwAAAAEBAABDYXJkbGFiABQAAAAB
+				BgAAEAAAACAAAAA8AAAAUAAAAGAAAAAIAAAABAMAALE4
+				AAAAAAAACAAAAAQDAAC40wMAAAAAAAgAAAAEAwAArzoE
+				AAAAAAAIAAAABAMAAP72+A4AAAAACAAAAAQDAAD3wHAV
+				AAAAABQAAAABBgAAjAAAAJwAAACsAAAAvAAAAMwAAAAI
+				AAAAAAQAAEHGtAcINFEcGAAAAAECAAACAAAAAAAAAA8A
+				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAMAAAAAAAAABAAA
+				AAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLwwAAAABAQAA
+				TWFjaW50b3NoIEhECAAAAAQDAAAAAIcROQAAAAgAAAAA
+				BAAAQcachScAAAAkAAAAAQEAAEQ0OTAwMjA4LTkwNDQt
+				NDU2My05QzM3LThCRTgxMjZCOTIwRRgAAAABAgAAgQAA
+				AAEAAADvEwAAAQAAAAAAAAAAAAAAAQAAAAEBAAAvAAAA
+				AAAAAAEFAADMAAAA/v///wEAAAAAAAAAEAAAAAQQAABw
+				AAAAAAAAAAUQAADcAAAAAAAAABAQAAAIAQAAAAAAAEAQ
+				AAD4AAAAAAAAAAIgAADUAQAAAAAAAAUgAABEAQAAAAAA
+				ABAgAABUAQAAAAAAABEgAACIAQAAAAAAABIgAABoAQAA
+				AAAAABMgAAB4AQAAAAAAACAgAAC0AQAAAAAAADAgAADg
+				AQAAAAAAAAHAAAAoAQAAAAAAABHAAAAgAAAAAAAAABLA
+				AAA4AQAAAAAAABDQAAAEAAAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/kimholbergandersen/Documents/GitHub/Cardlab/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>Cardlab</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
