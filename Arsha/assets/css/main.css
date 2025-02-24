@@ -1025,6 +1025,26 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Why Choose Section
+--------------------------------------------------------------*/
+.why-choose ul {
+	list-style: none; /* Remove default bullets */
+    padding: 0;
+}
+
+.why-choose li::before {
+    content: "✔"; /* Unicode checkmark */
+    color: #3659FC; /* Light blue checkmark */
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.why-choose li {
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+/*--------------------------------------------------------------
 # Why Us Section
 --------------------------------------------------------------*/
 .why-us {
@@ -1268,7 +1288,6 @@ section,
 .call-to-action-box {
   width: 600px;
   height: auto;
-  background-color: lightblue;
   border-radius: 0 40px 0 0; /* Top-right corner rounded */
 background-color: #3659FC;
 }
@@ -1330,6 +1349,13 @@ background-color: #3659FC;
 .call-to-action .cta-btn:hover {
   background: var(--accent-color);
   border: 2px solid var(--accent-color);
+}
+
+@media (max-width: 680px) {
+    /* Styles for iPhone 11 in portrait mode */
+.call-to-action-box {
+          width: 80%;
+    }
 }
 
 /*--------------------------------------------------------------
