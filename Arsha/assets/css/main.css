@@ -950,6 +950,32 @@ section,
 }
 
 /*--------------------------------------------------------------
+# Cornerstone section Section
+--------------------------------------------------------------*/
+ .cornerstone-tp {
+  width: 100%;
+  min-height: 80vh;
+  position: relative;
+  padding: 0 60 0 0;
+  display: flex;
+  align-items: center;
+}  
+
+.cornerstone-bt {
+  width: 100%;
+  min-height: 10vh;
+  position: relative;
+  padding: 0 0 0 0;
+  display: flex;
+  align-items: center;
+} 
+.cornerstone-box {
+  width: 100%px;
+  height: auto;
+  border-radius: 20px; /* All corners rounded */
+background-color: #3659FC;
+}
+/*--------------------------------------------------------------
 # Clients Section
 --------------------------------------------------------------*/
 .clients {
