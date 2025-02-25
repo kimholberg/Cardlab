@@ -971,7 +971,16 @@ section,
   transition: 0.3s;
   text-align: center;
   } 
-
+.button-top {
+  color: var(--contrast-color);
+  background: var(--accent-color);
+  font-size: 14px;
+  padding: 8px 25px;
+  margin: 0 0 0 30px;
+  border-radius: 30px;
+  transition: 0.3s;
+  text-align: center;
+  }
 /*--------------------------------------------------------------
 # Cornerstone section Section
 --------------------------------------------------------------*/
