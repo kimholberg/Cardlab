@@ -1022,12 +1022,15 @@ section,
 .cornerstone-box h3 {
   width: 100%px;
   height: auto;
-  border-radius: 20px; /* All corners rounded */
+  border-radius: 0px; /* All corners rounded */
 	background-color: var(--accent-color);
 	text-align: center;
 	align-items: center;
 	font-size: 20px;
+	color: var(--accent-color);
 }
+
+
 /*--------------------------------------------------------------
 # Clients Section
 --------------------------------------------------------------*/
