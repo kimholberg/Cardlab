@@ -940,6 +940,13 @@ section,
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
 
+.hero-img {
+	min-height: 358px;
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center; /* Centers vertically */
+}
+
 @media (max-width: 640px) {
   .hero h1 {
     font-size: 28px;
