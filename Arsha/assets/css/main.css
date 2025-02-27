@@ -1374,7 +1374,7 @@ section,
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action-box {
-  width: 50%;
+  width: 80%;
   height: auto;
   border-radius: 0 40px 0 0; /* Top-right corner rounded */
 background-color: var(--accent-color);
