@@ -1450,7 +1450,7 @@ background-color: var(--accent-color);
 @media (max-width: 680px) {
     /* Styles for iPhone 11 in portrait mode */
 .call-to-action-box {
-          width: 80%;
+          width: 90%;
     }
 }
 
