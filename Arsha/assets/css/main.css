@@ -1382,7 +1382,7 @@ background-color: var(--accent-color);
 
 .call-to-action-box-80 {
   width: 80%;
-  height: 120px;
+  height: auto;
   border-radius: 0 40px 0 0; /* Top-right corner rounded */
 background-color: var(--accent-color);
 }
