@@ -2088,6 +2088,13 @@ background-color: var(--accent-color);
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
 
+@media (max-width: 575px) {
+  iframe {
+    max-width: 300px;
+    max-height: 300px;
+  }
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/
